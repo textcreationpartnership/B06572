@@ -1,0 +1,324 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Christianity of the people commonly called Quakers, asserted against the unjust charge of their being no Christians, upon several questions relating to these matters, wherein their Christian belief is questioned.</title>
+            <author>Whitehead, George, 1636?-1723.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1693</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B06572</idno>
+            <idno type="STC">Wing W1914</idno>
+            <idno type="STC">ESTC R186518</idno>
+            <idno type="EEBO-CITATION">52529096</idno>
+            <idno type="OCLC">ocm 52529096</idno>
+            <idno type="VID">179244</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B06572)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 179244)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2781:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Christianity of the people commonly called Quakers, asserted against the unjust charge of their being no Christians, upon several questions relating to these matters, wherein their Christian belief is questioned.</title>
+                  <author>Whitehead, George, 1636?-1723.</author>
+               </titleStmt>
+               <extent>14 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>Printed in the year, 1693.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Published anonymously. Authorship from other editions in Wing.</note>
+                  <note>Presented in the form of question and answer.</note>
+                  <note>Imperfect: tightly bound with slight loss of text.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Apologetic works --  17th century.</term>
+               <term>Society of Friends --  Doctrines --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:179244:1"/>
+            <pb facs="tcp:179244:1" rendition="simple:additions"/>
+            <p>THE CHRISTIANITY OF THE PEOPLE Commmonly called QUAKERS, ASSERTED Againſt the Unjuſt Charge of their being no <hi>CHRISTIANS,</hi> Upon ſeveral Queſtions relating to thoſe Matters, wherein their Chri<g ref="char:EOLhyphen"/>ſtian Belief is Queſtioned.</p>
+            <p>Printed in the Year, 1693.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:179244:2"/>
+            <pb n="3" facs="tcp:179244:2"/>
+            <head>The Chriſtianity of the <hi>People</hi> com<g ref="char:EOLhyphen"/>monly called <hi>QUAKERS,</hi> Aſſerted againſt the Unjuſt Charge of their being no <hi>CHRISTIANS,</hi> &amp;c.</head>
+            <p>
+               <label>Queſtion,</label> WHat's your Belief con<g ref="char:EOLhyphen"/>cerning the Bleſſed Trinity, as our Term is?</p>
+            <p>
+               <label>Anſwer.</label> Our Belief is, that in the Unity of the God-head there is Father, Son, and Holy Ghoſt, being thoſe Three Divine Witneſſes that bear Record in Heaven, the Father, the Word, and the Holy Spirit; and that theſe Three are One, according to Holy Scripture Te<g ref="char:EOLhyphen"/>ſtimony.</p>
+            <p>
+               <label>Queſt.</label> Do you Believe the Divinity and Humanity of Jeſus Chriſt the Eternal Son of God, or that Jeſus Chriſt is truly God and Man?</p>
+            <p>
+               <pb n="4" facs="tcp:179244:3"/>
+               <label>Anſw.</label> Yes, we verily believe that Jeſus Chriſt is truly God and Man, ac<g ref="char:EOLhyphen"/>cording as Holy Scripture Teſtifies of Him, God over all bleſſed for ever, the true God and Eternal Life, the One Mediator between God and Men, even the Man Chriſt Jeſus.</p>
+            <p>
+               <label>Queſt.</label> Do you believe and expect Sal<g ref="char:EOLhyphen"/>vation, and Juſtification, by the Righte<g ref="char:EOLhyphen"/>ouſneſs and Merits of Jeſus Chriſt, or by your own Righteouſneſs or Works?</p>
+            <p>
+               <label>Anſw.</label> By Jeſus Chriſt his Righteouſ<g ref="char:EOLhyphen"/>neſs, Merits and Works, and not by our own, God is not indebted to us for our deſervings, but we to Him for his free Grace in Chriſt Jeſus, whereby we are ſaved through Faith in Him (not of our ſelves) and by his Grace inabled truly and acceptably to ſerve and follow Him as He requires! He is our <hi>All</hi> in <hi>All,</hi> who worketh all in us that is well pleaſ<g ref="char:EOLhyphen"/>ing to God.</p>
+            <p>
+               <label>Queſt.</label> Do you believe Remiſſion of Sin, and Redemption through the Sufferings, Death and Blood of Chriſt?</p>
+            <p>
+               <label>Anſw.</label> Yes, through Faith in Him as
+<pb n="5" facs="tcp:179244:3"/>he Suffered and Died for all Men, gave himſelf a Ranſom for all, and His Blood being ſhed for the Remiſſion of Sins; ſo all they who ſincerely believe and obey Him, receive the Benefits and bleſſed Effects of his ſuffering and dying for them, they by Faith in his Name, re<g ref="char:EOLhyphen"/>ceive and partake of that Eternal Re<g ref="char:EOLhyphen"/>demption which he hath obtained for us, who gave <hi>Himſelf</hi> for <hi>
+                  <g ref="char:V">Ʋ</g>s</hi> that he might Redeem us from <hi>all iniquity;</hi> he died for our <hi>Sins,</hi> and roſe again for our <hi>Ju<g ref="char:EOLhyphen"/>ſtification;</hi> and if we walk in the Light, as he is in the Light, we have fellow<g ref="char:EOLhyphen"/>ſhip one with another; and the Blood of Jeſus Chriſt His Son cleanſeth us from all ſin, 1 <hi>John</hi> 1.7.</p>
+            <p>
+               <label>Queſt.</label> Do you believe and own the Di<g ref="char:EOLhyphen"/>vine Offices of Jeſus Chriſt in His Church?</p>
+            <p>
+               <label>Anſw.</label> Yes, verily we ſincerely be<g ref="char:EOLhyphen"/>lieve and own Chriſt, not only as He is the Light of the World, enlightning e<g ref="char:EOLhyphen"/>very Man coming into it; but alſo that he is given for a Leader, and for a Com<g ref="char:EOLhyphen"/>mander. And that he is both King, Prieſt, and Prophet to and over his Church and
+<pb n="6" facs="tcp:179244:4"/>People. He is the Miniſter of the San<g ref="char:EOLhyphen"/>ctuary which the Lord pitched, and not Man, and we are to hear him in all things.</p>
+            <p>
+               <label>Queſt.</label> Do you believe or own Baptiſm as Eſſential to Chriſtianity, or neceſſary to Salvation, and for the Ingrafting us into Chriſt and His Church?</p>
+            <p>
+               <label>Anſw.</label> We believe and are fully per<g ref="char:EOLhyphen"/>ſwaded, <hi>That</hi> Baptiſm which is Eſſential to Chriſtianity, and the ſaving Baptiſm, or the Cauſe without which none can be true Chriſtians, or ſaved, is the inward or ſpiritual waſhing of Regeneration by the Word of Life, This is the ſaving Baptiſm into Chriſt and his Church, which produceth the Anſwer of a Good Conſcience towards God, of which the outward was a Figure, 1 <hi>Pet.</hi> 3.21. This is that <hi>One Baptiſm</hi> of Chriſt by one Spi<g ref="char:EOLhyphen"/>rit into <hi>that one Body,</hi> whereof Chriſt is Head.</p>
+            <p>As to Dipping or Sprinkling Infants, or Young Children we find no Precept or Preſident in Holy Scripture for the practice thereof, and therefore we can<g ref="char:EOLhyphen"/>not
+<pb n="7" facs="tcp:179244:4"/>think out not believing it Eſſential (or neceſſary) to Salvation, or making <hi>Chriſtians</hi> a ſufficient Argument to prove us <hi>no Chriſtians</hi> (unleſs it can be proved that none are ſaved without it, and that all are ſaved that have it.) Conſidering alſo what's Poſitively affirmed in the 39 Articles; as in the 6th Article, <hi>That whatſoever is not Read in the Holy Scrip<g ref="char:EOLhyphen"/>tures, nor may be proved thereby, is not to be required of any Man, That it ſhould be believed as an Article of the Faith, or be thought requiſite or neceſſary to Salva<g ref="char:EOLhyphen"/>tion.</hi> And in the 20th Article, <hi>That the Church ought not to Decree or Enforce any thing againſt or beſides Holy Writ, to be believed for neceſſity of Salvation.</hi> And in Article 21. <hi>That things ordain'd by General Councils as neceſſary to Salvation, have neither ſtrength nor authority, unleſs that they be taken out of Holy Scripture.</hi>
+            </p>
+            <p>
+               <label>Queſt.</label> Do you believe or own the Lords Supper, either as a ſign of the Love that Chriſtians ought to have among themſelves, or as a Seal of the Saints Communion and Commemoration of Chriſts Death for us, or
+<pb n="8" facs="tcp:179244:5"/>as Figurative of Chriſts Body and Blood ſpiritually received by Faith.</p>
+            <p>
+               <label>Anſw</label> The Supper of the Lord we own, and renderly conſider in a twofold ſenſe, 1. In the Figure, 2. In the Sub<g ref="char:EOLhyphen"/>ſtance. 1ſt. That our Lord Jeſus Chriſt, at His <hi>Supper</hi> with His Diſciples, did eat the Paſſeover (which was for the fulfil<g ref="char:EOLhyphen"/>ling and conſummation of the Feaſts un<g ref="char:EOLhyphen"/>der the Law;) ſee <hi>Luke</hi> 22. And at this <hi>Supper</hi> He did take and Miniſter Bread and the Cup to his Diſciples (for there was no Tranſubſtantiation) ſaying. <hi>This do in remembrance of me;</hi> and ſaid the A<g ref="char:EOLhyphen"/>poſtle, <hi>As often as ye ſhall eat this Bread and drink this Cup, ye ſhew the Lords Death till he come.</hi> 1 Cor. 11. After this they did more clearly know His coming, and Chriſt after the Spirit; <hi>Jeſus Chriſt in them,</hi> 2 Cor, 13.5. and 5.16. 2d And Chriſt ſaid to his Diſci<g ref="char:EOLhyphen"/>ples, <hi>I will not drink henceforth of this Fruit of the Vine until that day I drink it new with you in my Fathers Kingdom,</hi> Mat. 26.29. And likewiſe of the <hi>Bread, I will not any more eat thereof, until it be
+<pb n="9" facs="tcp:179244:5"/>fulfilled in the Kingdom of God,</hi> Luke 22.16. And he further ſaid, <hi>I appoint un<g ref="char:EOLhyphen"/>to you a Kingdom as my Father hath ap<g ref="char:EOLhyphen"/>pointed to me, that ye may Eat and Drink at my Table in my Kingdom,</hi> &amp;c. Luke 22.29, 30. In theſe things we believe he ſpoke myſteriouſly, and that every Member of his Spiritual Church, doth daily ſpiritually partake of his Body and Blood by Faith, as the Cup of Bleſſing which we Bleſs, is it not the Communi<g ref="char:EOLhyphen"/>on of the Blood of Chriſt? And the Bread which we break, is it not the Com<g ref="char:EOLhyphen"/>munion of the Body of Chriſt? for we being many are <hi>One</hi> Bread, and <hi>One</hi> Bo<g ref="char:EOLhyphen"/>dy, for we are all partakers of that <hi>ONE</hi> Bread, 1 <hi>Cor.</hi> 10.15, 16, 17. The Son of God ſaith, <hi>Behold I ſtand at the Door and knock, if any man hear my Voice, and open the Door, I will come into him, and will</hi> SUP <hi>with him, and he with me,</hi> Rev. 3.20. And Wiſdom calleth to the ſim<g ref="char:EOLhyphen"/>ple, <hi>Come Eat of my Bread, and Drink of my Wine,</hi> Prov. 9.4, 5. And ſaith Chriſt, <hi>The Bread of God is he that cometh down from Heaven, and giveth Life unto the
+<pb n="10" facs="tcp:179244:6"/>World. I am that Bread of Life; my Fleſh is Meat indeed, and my Blood is Drink indeed. He that Eateth my Fleſh, and Drinketh my Blood, dwelleth in me, and I in him,</hi> John 6. We believe that all who thus do truly partake of Chriſt by Faith, are in true Communion and Love among themſelves, which they do want who are only in the outward Ob<g ref="char:EOLhyphen"/>ſervation of <hi>Sign and Shadows.</hi>
+            </p>
+            <p>
+               <label>Queſt.</label> Do you own the Seals of the New Covenant?</p>
+            <p>
+               <label>Anſw.</label> Yes, as the New Covenant i<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Spiritual, ſo are the Seals thereof (a<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> they may be termed) proper to it, and therefore we believe they ſtand not in a<g ref="char:EOLhyphen"/>ny external Shadow, Sign or Figure, bu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in <hi>ſpirit</hi> and <hi>ſubſtance,</hi> the <hi>Seals</hi> of the New Covenant (which is inward and ſpiritual) muſt needs be the Evidence<g ref="char:punc">▪</g> Teſtimony, and work of the <hi>Holy Spirit</hi> giving us aſſurance through Faith of our ſhare and intereſt in that Covenant. Se<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> what the Holy Scripture ſaith in this caſe; ſee 2 <hi>Cor.</hi> 1.22. <hi>Who hath alſo ſeal<g ref="char:EOLunhyphen"/>ed us, and hath given us the earneſt of th<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb n="11" facs="tcp:179244:6"/>ſpirit in our Hearts.</hi> Epheſ. 1.13. <hi>After <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hat ye believed ye were ſealed with the <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oly ſpirit of Promiſe.</hi> And <hi>Epheſ.</hi> 4.30. <hi>And grieve not the holy ſpirit of God where<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y ye are ſealed unto the day of Redemp<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ion.</hi>
+            </p>
+            <p>Our Chriſtian ſenſe and belief in theſe Matters may be briefly ſumm'd up in <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat follows, <hi>viz.</hi>
+            </p>
+            <list>
+               <item>1. We believe, That the ſpiritual ap<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>earance, and living enjoyment of Chriſt <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſpirit, is above all outward ſigns, ſha<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ows, or figures, or a Remembrance on<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y of him thereby. And that <hi>Chriſt</hi> more <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>learly diſcovers himſelf by his Spirit in <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he New Covenant, than by any outward Repreſentations in the Old, or thereunto <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ppertaining.</item>
+               <item>2. That the <hi>One Baptiſm</hi> of the Spirit <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s a Seal or Confirmation of the New Co<g ref="char:EOLhyphen"/>venant to true Believers, and of them <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n it; and ſo is their ſpiritual Eating and Drinking with Him in his Kingdom a
+<pb n="12" facs="tcp:179244:7"/>certain Aſſurance, Seal or Evidence o<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> their Spiritual Communion with him, and in him.</item>
+               <item>3. As all outward ſhadows and figure were of a decreaſing nature, ſo there <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the ſubſtance thereof, which they poin<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ed at, and wherein they ended, thoug<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the names given to the ſhadows wer<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> carried along to the ſubſtance alſo, tha<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> it might the more plainly appear in Scri<g ref="char:EOLhyphen"/>pture how the ſhadows were fulfilled i<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the ſubſtance Chriſt; as in the Old Co<g ref="char:EOLhyphen"/>venant there was outward Circumciſion of the Fleſh; in the New, there is th<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> inward Circumciſion of the Spirit. I<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Old, there was divers <hi>Waſhings o<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Baptiſms,</hi> Heb. 9.10. In the New. the <hi>One Baptiſm of Chriſt;</hi> in the Old, the Feaſt of the outward Paſſeover kept with Unleavened Bread, and other Feaſts obſerved, <hi>&amp;c.</hi> in the New Covenant, Je<g ref="char:EOLhyphen"/>ſus Chriſt is our Paſſeover, and the Feaſt is to be kept with Unleavened Bread of <hi>Sincerity</hi> and <hi>Truth;</hi> and here the <hi>One</hi>
+                  <pb n="13" facs="tcp:179244:7"/>Bread of Life is known and received.</item>
+               <item>4. We do not read nor find in Scrip<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ure, that <hi>One</hi> outward Type or Sha<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ow, was a Type of another Type out<g ref="char:EOLhyphen"/>ward, but always of the thing Typified <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r Shadowed forth, which was the ſub<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tance and end of that Shadow or Type, <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s may be ſhown at large, if any under<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ake to ſhew us any ſhadow or thing that <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s figurative in its own nature (mention<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d in Scripture) which they ſuppoſe we <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>annot ſhew the ſubſtance of, under the <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ame Name or Title.</item>
+            </list>
+            <p>
+               <label>Queſt.</label> Do you believe and own the Ho<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Scriptures, contained in the Books of the Old and New Teſtament, to be given by Divine Inſpiration, and to contain all Mat<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ers of Doctrine and Teſtimony, <hi>&amp;c.</hi> neceſ<g ref="char:EOLhyphen"/>ſary to be believed and practiced in order <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o Salvation, and Peace with God?</p>
+            <p>
+               <label>Anſw.</label> Yes, we do, and by the aſſiſ<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ance of the Grace and good Spirit of
+<pb n="14" facs="tcp:179244:8"/>God, which gives the true underſtan<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ing of the mind of God, and meaning Holy Scripture, we alwaies deſire to li<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> in the Faith, Knowledge and Practice them in all things appertaining to Li<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and Godlineſs, Holy Scripture being gi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>en by Divine Inſpiration, is profitable <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Doctrin, Correction, and Inſtruction, th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Man of God may be perfect, th<gap reason="illegible" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>rowly furniſhed unto every good Wo<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> able to make the Man of God wiſe u<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſalvation, through Faith in Chriſt Jeſ<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+            </p>
+            <p>Writ in behalf of the People of God c<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>led QUAKERS, by ſome of them.</p>
+            <pb facs="tcp:179244:8"/>
+            <pb facs="tcp:179244:9"/>
+            <pb facs="tcp:179244:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
